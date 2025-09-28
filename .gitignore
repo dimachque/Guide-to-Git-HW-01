@@ -6,8 +6,10 @@
 *.njsproj
 *.sln
 *.sw?
-*.log
 *.tmp
 *.swp
 /assets
 /.markdownlint.json
+
+# Ignore log files
+*.log
