@@ -1,6 +1,6 @@
 [Ru](/readme.md) | [Eng](README.en_EN.md)
 
-![](assets/Git_Logo_full.png)
+![](/assets/Git_Logo_full.png)
 <div align="right">
 
 ##### _[GIT logo](https://git-scm.com/downloads/logos) by Jason Long_
@@ -18,8 +18,8 @@
 ### Содержание
 1. Управление Git через GUI
     * [Создаем репозиторий](./create%20repository.md)
-    * Создаем папку Git и добавляем её в IDE
-    * Создаем файл Git
+    * [Создаем папку Git и добавляем её в IDE](create%20new%20folder.md)
+    * [Создаем файл Git](create%20new%20file.md)
     * Инициализируем репозиторий
     * Оставляем коммит
     * Откатить/Отменить изменения
