@@ -4,7 +4,7 @@
 
 >### First you need to create a folder for working with Git. Create it in any place that is convenient for you
 
-![](assets/2.%20Создаем%20папку%20Git%20и%20добавляем%20в%20VS%20Code/выбираем%20папку.png)
+![](/assets/2.%20Создаем%20папку%20Git%20и%20добавляем%20в%20VS%20Code/выбираем%20папку.png)
 
 # Open Folder in IDE
 

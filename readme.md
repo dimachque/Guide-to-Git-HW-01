@@ -20,7 +20,7 @@
     * [Создаем репозиторий](/readme_ru/create%20repository.md)
     * [Создаем папку Git и добавляем её в IDE](/readme_ru/create%20new%20folder.md)
     * [Создаем файл Git](/readme_ru/create%20new%20file.md)
-    * Инициализируем репозиторий
+    * [Инициализируем репозиторий](/readme_ru/initialize%20repository.md)
     * Оставляем коммит
     * Откатить/Отменить изменения
     * Сменить ветку и её название

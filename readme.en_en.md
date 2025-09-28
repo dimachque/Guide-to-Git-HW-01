@@ -21,7 +21,7 @@
     * [Create Repository](/readme_en/create%20repository.en_en.md)
     * [Create new folder Git and add to IDE](/readme_en/create%20new%20folder.en_en.md)
     * [Create new file Git](/readme_en/create%20new%20file.en_en.md)
-    * Initialize Repository
+    * [Initialize Repository](/readme_en/iInitialize%20repository.en_en.md)
     * Commit
     * Discard Changes
     * Checkout Branch and Rename Branch

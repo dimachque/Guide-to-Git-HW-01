@@ -10,7 +10,7 @@
 
 >### Open your Git folder and create a new file for example `text.txt` via `MB2` (_right mouse button_)
 
-![](/assets/3.%20Создаем%20файл%20Git/2084.png)
+![](/assets/3.%20Создаем%20файл%20Git/2084.png)     
 ![](/assets/3.%20Создаем%20файл%20Git/2085.png)
 
 >### Then edit its name, for example to format `.md`

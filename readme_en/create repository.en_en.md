@@ -4,7 +4,7 @@
 
 >### You need to go to your profile at `GitHub >> Repositories`, then select `New`
 
-![](assets/1.%20Создаем%20репозиторий/1.png)
+![](/assets/1.%20Создаем%20репозиторий/1.png)
 
 ---
 
