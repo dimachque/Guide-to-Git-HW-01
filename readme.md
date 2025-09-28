@@ -17,9 +17,9 @@
 
 ### Содержание
 1. Управление Git через GUI
-    * [Создаем репозиторий](./create%20repository.md)
-    * [Создаем папку Git и добавляем её в IDE](create%20new%20folder.md)
-    * [Создаем файл Git](create%20new%20file.md)
+    * [Создаем репозиторий](/readme_ru/create%20repository.md)
+    * [Создаем папку Git и добавляем её в IDE](/readme_ru/create%20new%20folder.md)
+    * [Создаем файл Git](/readme_ru/create%20new%20file.md)
     * Инициализируем репозиторий
     * Оставляем коммит
     * Откатить/Отменить изменения

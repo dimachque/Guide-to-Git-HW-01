@@ -18,9 +18,9 @@
 ### Content
 
 1. Git management using the GUI
-    * [Create Repository](create%20repository.en_en.md)
-    * [Create new folder Git and add to IDE](create%20new%20folder.en_en.md)
-    * [Create new file Git](create%20new%20file.en_en.md)
+    * [Create Repository](/readme_en/create%20repository.en_en.md)
+    * [Create new folder Git and add to IDE](/readme_en/create%20new%20folder.en_en.md)
+    * [Create new file Git](/readme_en/create%20new%20file.en_en.md)
     * Initialize Repository
     * Commit
     * Discard Changes
