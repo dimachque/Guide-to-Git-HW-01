@@ -1,4 +1,4 @@
-[Ru](/readme.md) | [Eng](/readme_en.md)
+[Ru](/readme.md) | [Eng](readme.en_en.md)
 
 ![](assets/Git_Logo_full.png)
 <div align="right">
@@ -16,10 +16,11 @@
 >_Hello! Here I will share my experience with Git (I’m just getting started). I’ll tell and show the example **`Visual Studio Code`**._
 
 ### Content
+
 1. Git management using the GUI
-    * [Create Repository](./create%20repository_en.md)
-    * Create Git folder and add to IDE
-    * Create file Git
+    * [Create Repository](create%20repository.en_en.md)
+    * Create new folder Git and add to IDE
+    * Create new file Git
     * Initialize Repository
     * Commit
     * Discard Changes

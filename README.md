@@ -1,4 +1,4 @@
-[Ru](/readme.md) | [Eng](/readme_en.md)
+[Ru](/readme.md) | [Eng](README.en_EN.md)
 
 ![](assets/Git_Logo_full.png)
 <div align="right">
