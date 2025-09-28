@@ -9,5 +9,5 @@
 *.log
 *.tmp
 *.swp
-/img
+/assets
 /.markdownlint.json
