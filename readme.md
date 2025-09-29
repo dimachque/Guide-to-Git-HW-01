@@ -1,4 +1,4 @@
-[Ru](/readme.md) | [Eng](README.en_EN.md)
+[Ru](/readme.md) | [Eng](/readme_en.md)
 
 ![](/assets/Git_Logo_full.png)
 <div align="right">
@@ -21,9 +21,9 @@
     * [Создаем папку Git и добавляем её в IDE](/readme_ru/create%20new%20folder.md)
     * [Создаем файл Git](/readme_ru/create%20new%20file.md)
     * [Инициализируем репозиторий](/readme_ru/initialize%20repository.md)
-    * Оставляем коммит
-    * Откатить/Отменить изменения
-    * Сменить ветку и её название
+    * [Оставляем коммит](/readme_ru/commit.md)
+    * [Откатить/Отменить изменения](/readme_ru/Discard%20Changes.md)
+    * [Сменить ветку и её название](/readme_ru/Branching.md)
     * Загрузка кода на GitHub
     * Подключение к удаленному репозиторию
     * Запушить на GitHub
@@ -41,6 +41,9 @@
 3. Возможные проблемы и советы по их устранению 
     * Личность автора не подтверждена
     * Не работает инициализация через **_`git init`_**
+
+4. Полезные бинды
+    * Alias
 
 ## Звезды с течением времени
 

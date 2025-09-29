@@ -1,4 +1,4 @@
-[Ru](/readme.md) | [Eng](readme.en_en.md)
+[Ru](/readme.md) | [Eng](readme_en.md)
 
 ![](/assets/Git_Logo_full.png)
 <div align="right">
@@ -18,13 +18,13 @@
 ### Content
 
 1. Git management using the GUI
-    * [Create Repository](/readme_en/create%20repository.en_en.md)
-    * [Create new folder Git and add to IDE](/readme_en/create%20new%20folder.en_en.md)
-    * [Create new file Git](/readme_en/create%20new%20file.en_en.md)
-    * [Initialize Repository](/readme_en/iInitialize%20repository.en_en.md)
-    * Commit
-    * Discard Changes
-    * Checkout Branch and Rename Branch
+    * [Create Repository](/readme_en/create%20repository_en.md)
+    * [Create new folder Git and add to IDE](/readme_en/create%20new%20folder_en.md)
+    * [Create new file Git](/readme_en/create%20new%20file_en.md)
+    * [Initialize Repository](/readme_en/iInitialize%20repository_en.md)
+    * [Commit](/readme_en/commit_en.md)
+    * [Discard Changes](/readme_en/Discard%20Changes_en.md)
+    * [Checkout Branch and Rename Branch](/readme_en/Branching_en.md)
     * Publish Branch
     * Connection to remote repository
     * Push to...
@@ -42,6 +42,9 @@
 3. Possible problems and tips on how to fix them
     * Author not confirmed
     * Does not initialize through **_`git init`_**
+
+4. Config
+    * Alias
 
 ## Stargazers over Time
 
