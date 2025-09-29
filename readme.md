@@ -24,7 +24,7 @@
     * [Оставляем коммит](/readme_ru/commit.md)
     * [Откатить/Отменить изменения](/readme_ru/Discard%20Changes.md)
     * [Сменить ветку и её название](/readme_ru/Branching.md)
-    * Загрузка кода на GitHub
+    * [Загрузка кода на GitHub](/readme_ru/Publish%20Branch.md)
     * Подключение к удаленному репозиторию
     * Запушить на GitHub
     * Посмотреть **_`git log`_** или **_`git graph`_**

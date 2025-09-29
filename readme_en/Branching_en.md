@@ -53,7 +53,7 @@
 
 ![](/assets/7.%20Сменить%20название%20ветки/чекаут.png)
 
->### Check that we have a header pointer now attached to the comment, not the branch
+>### Check that we have a HEAD now attached to the comment, not the branch
 
 ![](/assets/7.%20Сменить%20название%20ветки/смена%20коммита%20на%20ветку.png)
 

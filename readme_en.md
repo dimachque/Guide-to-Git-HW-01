@@ -25,7 +25,7 @@
     * [Commit](/readme_en/commit_en.md)
     * [Discard Changes](/readme_en/Discard%20Changes_en.md)
     * [Checkout Branch and Rename Branch](/readme_en/Branching_en.md)
-    * Publish Branch
+    * [Publish Branch](/readme_en/Publish%20Branch_en.md)
     * Connection to remote repository
     * Push to...
     * Check **_`git log`_** or **_`git graph`_**
