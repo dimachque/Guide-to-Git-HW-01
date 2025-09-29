@@ -14,9 +14,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 > [!IMPORTANT]      
->Hello! Here I will share my experience with Git (I’m just getting started). I’ll tell and show the example **`Visual Studio Code`**.
+>Hello! Here I will share my experience with Git (I’m just getting started). I’ll tell and show the example **`Visual Studio Code`** and **`Git Bash`**.
 
-### Content
+## Content
 
 1. Git management using the GUI
     * [Create Repository](/readme_en/create%20repository_en.md)
@@ -27,7 +27,7 @@
     * [Discard Changes](/readme_en/Discard%20Changes_en.md)
     * [Checkout Branch and Rename Branch](/readme_en/Branching_en.md)
     * [Publish Branch](/readme_en/Publish%20Branch_en.md)
-    * Connection to remote repository
+    * [Connection to remote repository](/readme_en/Connection%20to%20remote%20repository_en.md)
     * Push to...
     * Check **_`git log`_** or **_`git graph`_**
 
