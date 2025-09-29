@@ -13,7 +13,8 @@
 [![GitHub Followers](https://img.shields.io/github/followers/dimachque?style=social)](https://github.com/dimachque)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
->_Привет! Здесь я поделюсь своим опытом в работе с Git (я только начинаю). Буду рассказывать и показывать на примере **`Visual Studio Code`**._
+> [!IMPORTANT]      
+>Привет! Здесь я поделюсь своим опытом в работе с Git (я только начинаю). Буду рассказывать и показывать на примере **`Visual Studio Code`**.
 
 ### Содержание
 1. Управление Git через GUI

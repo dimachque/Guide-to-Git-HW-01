@@ -13,7 +13,8 @@
 [![GitHub Followers](https://img.shields.io/github/followers/dimachque?style=social)](https://github.com/dimachque)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
->_Hello! Here I will share my experience with Git (I’m just getting started). I’ll tell and show the example **`Visual Studio Code`**._
+> [!IMPORTANT]      
+>Hello! Here I will share my experience with Git (I’m just getting started). I’ll tell and show the example **`Visual Studio Code`**.
 
 ### Content
 
