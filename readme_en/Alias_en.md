@@ -6,7 +6,15 @@
 
 ![](/assets/Alias/алиасы.png)
 
-## Keep for yourself
+### How to add to confing:
+   + open your repository folder;
+   + further find the folder `.git`;
+   + open the file `config`.
+
+> [!IMPORTANT]      
+> For the above method to work, you must have hidden folders/files ([__how to do it?__](https://clck.ru/3PUwid))
+
+# Keep for yourself
 
 ```bash
 [alias]
