@@ -3,7 +3,7 @@
 # Console Commands
 
 | **Название** | **Windows** | **Linux** | **macOS** |
-|:---------|:-------:|:-----:|------:|
+|:---------|:-------:|:-----:|:-----:|
 |_change directory_|cd|cd|cd|
 |_list of files and subdirectories within a specified directory_|dir|ls|ls|
 |_short for "make directory"_|mkdir|mkdir|mkdir|
